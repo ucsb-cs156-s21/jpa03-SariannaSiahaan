@@ -1,35 +1,13 @@
-# STARTER-lab03
+# jpa03-SariannaSiahaan
 
 
-* TODO: Change the title of this README 
-  in the text `# STARTER-jpa03` above
-  to match the name of your repo, i. e., `jpa03-yourgithubid`, then delete
-  this TODO item.
+Repo: https://ucsb-cs156-s21/jpa03-SariannaSiahaan
 
-* TODO: Correct the links to repo below, 
-  then delete this TODO.  Replace it with 
-  a link to your repo, e.g. 
-  https://github.com/ucsb-cs156-s21/jpa03-cgaucho
+On Heroku: https://jpa03-sarianna.herokuapp.com
 
-Repo: https://ucsb-cs156-s21/STARTER-jpa03
+On Codecov: https://app.codecov.io/gh/ucsb-cs156-s21/jpa03-SariannaSiahaan
 
-* TODO: Correct the links to app on Heroku below, 
-  then delete this TODO.  Replace it with 
-  a link to your running app on Heroku, e.g.
-  https://jpa03-cgaucho.herokuapp.com
-
-
-On Heroku: https://jpa03-cgaucho.herokuapp.com
-
-* TODO: Correct the links to codecov report below
-  then delete this TODO.  Replace it with 
-  a link to your codecov report.  Fix the URLs in the codecov
-  badge markup below as well so that the badge links to your
-  correct codecov report.
-
-On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho
-
-[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho/branch/main/graph/badge.svg)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho)
+[![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-SariannaSiahaan/branch/main/graph/badge.svg?token=gzTdqchXGk)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-SariannaSiahaan)
 
 
 ## Integrations
